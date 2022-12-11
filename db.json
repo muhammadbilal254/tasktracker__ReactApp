@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "ok that add",
+      "day": "sunday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "this will also add on api ",
+      "day": "saturday",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "app completed",
+      "day": "sunday 9:09PM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
